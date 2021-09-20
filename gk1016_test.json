@@ -1,12 +1,39 @@
-{
-  "donationIds": [
-    "com.fairese.nae.sDonationT1",
-    "com.fairese.nae.sDonationT2",
-    "com.fairese.nae.sDonationT3",
-    "com.fairese.nae.sDonationT11"
-  ],
-  "functionalityIds": [
-    "com.fairese.nae.silviannaPro",
-    "com.fairese.nae.silviannaProTrial"
-  ]
-}
+[
+  {
+    "id": "1",
+    "user_id": "River11",
+    "user_type" : "Aviation",
+    "dev_user" : "True"
+  },
+  {
+    "id": "2",
+    "user_id": "River12",
+    "user_type" : "Aviation",
+    "dev_user" : "False"
+  },
+  {
+    "id": "3",
+    "user_id": "Anvil11",
+    "user_type" : "Ground",
+    "dev_user" : "False"
+  },
+  {
+    "id": "4",
+    "user_id": "Bezerker01",
+    "user_type" : "Ground",
+    "dev_user" : "False"
+  },
+  {
+    "id": "5",
+    "user_id": "Whiplash",
+    "user_type" : "Marine",
+    "dev_user" : "False"
+  },
+  {
+    "id": "6",
+    "user_id": "Admin",
+    "user_type" : "Developer",
+    "dev_user" : "True"
+  }
+
+]
