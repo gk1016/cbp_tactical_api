@@ -1,0 +1,10 @@
+[
+  {
+    "callsign": "210LX",
+    "server_ip": "tcp://192.168.1.92",
+    "port" : "1883",
+    "user_name" : "210LX",
+    "password" : ""
+  }
+
+]
